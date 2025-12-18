@@ -7,7 +7,7 @@ import Footer from './components/Footer.jsx';
 import { TiLocationArrowOutline } from "react-icons/ti";
 import { CiCloudOn, CiCloudDrizzle, CiSun } from "react-icons/ci";
 
-const API_KEY = "b81b6799c2282dbb9792e9d52e8d2101";
+const API_KEY = "";
 const BASE_URL = process.env.REACT_APP_WEATHER_API_URL || "https://weather-api-production-d97e.up.railway.app";
 
 // Forecast icons mapping
